@@ -6,6 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>code php.</h1>
+    <h2>Thông tin</h2>
+<?php
+echo "Hello World";
+?>
 </body>
 </html>
