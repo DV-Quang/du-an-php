@@ -8,7 +8,8 @@
 <body>
     <h1>Thông tin</h2>
 <?php
-echo "Hello World";
+echo "Hello, World";
+
 ?>
 </body>
 </html>
